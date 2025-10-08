@@ -4,6 +4,14 @@ Let's learn, understand, and develop Java projects using the training provided b
 
 <img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/02da1374-8f25-4419-9708-c22a2238967c" />
 
+
+
+# GitHub & Tutorials 🔗
+
+- GitHub: [Thamizhselvan21](https://github.com/Thamizhselvan21) [Kalaiselvi-A](https://github.com/Kalaiselvi-A/CoreJavaCourse)
+- [How to Link Eclipse with GitHub Account](https://youtu.be/0G4iwZ3qw0s?si=sdSdIH9tmUSGHKwu)  
+- [How to Upload a Java Project from Eclipse to GitHub Repository](https://youtu.be/TysKmwGjxlQ?si=fhrL0WfOXvX68-pk)  
+
 # Topics Covered 📚
 
 - **Encapsulation**: getters, setters, and data protection  
