@@ -20,6 +20,7 @@ Let's learn, understand, and develop Java projects using the training provided b
 - **Polymorphism**: method overloading and method overriding  
 - **Interfaces**: creating and implementing interfaces  
 - **Exception Handling**: try-catch blocks and error management  
+- **Threading**: using `Thread` class and methods like `run()`, `start()`, `sleep()`, `join()`, `isAlive()`, and `setPriority()` for concurrent execution
 - **Hands-on Exercises**: practical programs and examples for learning  
 
 # Purpose 🎯
