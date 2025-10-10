@@ -21,6 +21,13 @@ Let's learn, understand, and develop Java projects using the training provided b
 - **Interfaces**: creating and implementing interfaces  
 - **Exception Handling**: try-catch blocks and error management  
 - **Threading**: using `Thread` class and methods like `run()`, `start()`, `sleep()`, `join()`, `isAlive()`, and `setPriority()` for concurrent execution
+- **Collections Framework**: working with  
+  - **List** (ArrayList, LinkedList)  
+  - **Set** (HashSet, TreeSet)  
+  - **Queue** (PriorityQueue, LinkedList)  
+  - **Map** (HashMap, TreeMap)  
+  - **Vector** and **Stack**  
+  - **Iterable & Iterator Interface** for traversing elements  
 - **Hands-on Exercises**: practical programs and examples for learning  
 
 # Purpose 🎯
