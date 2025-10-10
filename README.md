@@ -2,8 +2,7 @@
 
 Let's learn, understand, and develop Java projects using the training provided by the **TNSIF program**, powered by **Capgemini**. This repository contains my Java programming practice and demonstration projects, created as part of the TNSIF training program. It includes well-organized examples covering core **Object-Oriented Programming (OOP)** concepts along with other fundamental Java topics.
 
-Beyond technical learning, this journey also focuses on **soft skills and personal growth** — helping us become our best versions.  
-The **interpersonal skills sessions** emphasized that real progress goes beyond coding, shaping us to grow both **technically and personally**. 🌟  
+Beyond technical learning, this journey also focuses on **soft skills and personal growth** — helping us become our best versions. The **interpersonal skills sessions** emphasized that real progress goes beyond coding, shaping us to grow both **technically and personally**. 🌟  
 
 
 <img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/02da1374-8f25-4419-9708-c22a2238967c" />          <img width="300" height="300" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMo9e26ySHpwRW79sYf-z1KXQd8O5rqXb0UNvIXmbYauDI310t5tRvG3ijkVsx-jx8aaY&usqp=CAU" />
@@ -59,7 +58,7 @@ This repository is intended for:
 ---
 
 
-***Grateful to the mentors** for this wonderful learning experience and the opportunity to grow my skills! ✨*
+***Grateful to the mentors** for this wonderful learning experience and the opportunity to grow my skills!* ✨
 
 
 *Created and maintained by **PADMAPRIYA** as part of the TNSIF training program.*
