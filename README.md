@@ -8,7 +8,7 @@ Let's learn, understand, and develop Java projects using the training provided b
 
 # GitHub & Tutorials 🔗
 
-- GitHub: [Thamizhselvan21](https://github.com/Thamizhselvan21) [Kalaiselvi-A](https://github.com/Kalaiselvi-A/CoreJavaCourse)
+- GitHub: [Thamizhselvan21](https://github.com/Thamizhselvan21/C2TC_CoreJavaPrograms.git) [Kalaiselvi-A](https://github.com/Kalaiselvi-A/CoreJavaCourse)
 - [How to Link Eclipse with GitHub Account](https://youtu.be/0G4iwZ3qw0s?si=sdSdIH9tmUSGHKwu)  
 - [How to Upload a Java Project from Eclipse to GitHub Repository](https://youtu.be/TysKmwGjxlQ?si=fhrL0WfOXvX68-pk)  
 
