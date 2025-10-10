@@ -6,7 +6,7 @@ Beyond technical learning, this journey also focuses on **soft skills and person
 The **interpersonal skills sessions** emphasized that real progress goes beyond coding, shaping us to grow both **technically and personally**. 🌟  
 
 
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/02da1374-8f25-4419-9708-c22a2238967c" />
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/02da1374-8f25-4419-9708-c22a2238967c" />          <img width="300" height="300" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMo9e26ySHpwRW79sYf-z1KXQd8O5rqXb0UNvIXmbYauDI310t5tRvG3ijkVsx-jx8aaY&usqp=CAU" />
 
 
 
@@ -25,13 +25,7 @@ The **interpersonal skills sessions** emphasized that real progress goes beyond 
 - **Interfaces**: creating and implementing interfaces  
 - **Exception Handling**: try-catch blocks and error management  
 - **Threading**: using `Thread` class and methods like `run()`, `start()`, `sleep()`, `join()`, `isAlive()`, and `setPriority()` for concurrent execution
-- **Collections Framework**: working with  
-  - **List** (ArrayList, LinkedList)  
-  - **Set** (HashSet, TreeSet)  
-  - **Queue** (PriorityQueue, LinkedList)  
-  - **Map** (HashMap, TreeMap)  
-  - **Vector** and **Stack**  
-  - **Iterable & Iterator Interface** for traversing elements  
+- **Collections Framework**: working with List, Set, Queue, Map, Vector, Stack, and Iterator for efficient data management    
 - **Hands-on Exercises**: practical programs and examples for learning
 
 # Soft Skills 💡  
@@ -42,26 +36,12 @@ The **interpersonal skills sessions** emphasized that real progress goes beyond 
 - **SMART Goals**: setting specific, measurable, achievable, relevant, and time-bound objectives  
 - **Eisenhower Matrix**: prioritizing tasks based on urgency and importance  
 - **Types of Communication**: verbal, non-verbal, written, and visual  
-- **TALKING Skills** 🗣️  
-  - **T** – Think before you speak  
-  - **A** – Analyze before you respond  
-  - **L** – Listen to all the conversation  
-  - **K** – Use kind words  
-  - **I** – Insults carry a price  
-  - **N** – Never get distracted when someone is speaking  
-  - **G** – Give full attention  
+- **TALKING Skills** 🗣️: think before you speak, listen actively, use kind words, and stay attentive    
 - **7Cs of Communication** 💬: clear, concise, concrete, correct, coherent, complete, courteous  
-- **CLOCK Mantra** ⏰  
-  - ✅ **C** - Choose your goal  
-  - ✅ **L** - List the activities  
-  - ✅ **O** - Overcome obstacles  
-  - ✅ **C** - Complete the task  
-  - ✅ **K** - Kudos! Keep doing  
+- **CLOCK Mantra** ⏰: choose your goal, list activities, overcome obstacles, complete tasks, and keep improving  
 - **CV Preparation**: resume formatting, highlighting skills, and achievements  
 - **Resume Building**: creating ATS-friendly resumes with impactful content and design  
  
-
-
 
 # Purpose 🎯
 
@@ -79,7 +59,7 @@ This repository is intended for:
 ---
 
 
-**Grateful to the mentors** for this wonderful learning experience and the opportunity to grow my skills! ✨   
+***Grateful to the mentors** for this wonderful learning experience and the opportunity to grow my skills! ✨*
 
 
 *Created and maintained by **PADMAPRIYA** as part of the TNSIF training program.*
