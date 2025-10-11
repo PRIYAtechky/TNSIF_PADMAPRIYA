@@ -36,7 +36,7 @@ Beyond technical learning, this journey also focuses on **soft skills and person
 - **Eisenhower Matrix**: prioritizing tasks based on urgency and importance  
 - **Types of Communication**: verbal, non-verbal, written, and visual  
 - **TALKING Skills**: think before you speak, listen actively, use kind words, and stay attentive    
-- **7Cs of Communication** 💬: clear, concise, concrete, correct, coherent, complete, courteous  
+- **7Cs of Communication**: clear, concise, concrete, correct, coherent, complete, courteous  
 - **CLOCK Mantra**: choose your goal, list activities, overcome obstacles, complete tasks, and keep improving  
 - **CV Preparation**: resume formatting, highlighting skills, and achievements  
 - **Resume Building**: creating ATS-friendly resumes with impactful content and design  
