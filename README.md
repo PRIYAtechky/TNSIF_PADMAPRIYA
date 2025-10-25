@@ -17,15 +17,22 @@ Beyond technical learning, this journey also focuses on **soft skills and person
 
 # Topics Covered 📚
 
-- **Encapsulation**: getters, setters, and data protection  
-- **Abstraction**: abstract classes, methods, and runtime polymorphism  
-- **Inheritance**: single, multilevel, and hierarchical inheritance  
-- **Polymorphism**: method overloading and method overriding  
-- **Interfaces**: creating and implementing interfaces  
-- **Exception Handling**: try-catch blocks and error management  
-- **Threading**: using `Thread` class and methods like `run()`, `start()`, `sleep()`, `join()`, `isAlive()`, and `setPriority()` for concurrent execution
-- **Collections Framework**: working with List, Set, Queue, Map, Vector, Stack, and Iterator for efficient data management    
-- **Hands-on Exercises**: practical programs and examples for learning
+| Topic                  | Description |
+|------------------------|-------------|
+| Encapsulation          | getters, setters, and data protection.<br>Controls access to class data and protects it from unauthorized modification. |
+| Abstraction            | abstract classes, methods, and runtime polymorphism.<br>Hides implementation details to focus on functionality. |
+| Inheritance            | single, multilevel, and hierarchical inheritance.<br>Allows classes to reuse code from other classes. |
+| Polymorphism           | method overloading and method overriding.<br>Enables the same method to behave differently based on context. |
+| Interfaces             | creating and implementing interfaces.<br>Defines contracts that classes must follow. |
+| Exception Handling     | try-catch blocks and error management.<br>Handles runtime errors to prevent program crashes. |
+| Threading              | using Thread class and methods like run(), start(), sleep(), join(), isAlive(), and setPriority() for concurrent execution.<br>Allows multiple tasks to run simultaneously. |
+| Collections Framework  | working with List, Set, Queue, Map, Vector, Stack, and Iterator for efficient data management.<br>Organizes and manages groups of objects efficiently. |
+| lambda                 | Provides a concise way to represent anonymous functions for functional programming. |
+| streamapi              | Processes collections of data in a functional and efficient way. |
+| Junit                  | Used for writing unit tests to check and validate Java code. |
+| Hands-on Exercises     | practical programs and examples for learning.<br>Helps reinforce Java concepts through practice. |
+
+
 
 # Soft Skills 💡  
 
