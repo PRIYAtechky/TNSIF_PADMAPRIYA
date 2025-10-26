@@ -32,22 +32,22 @@ Beyond technical learning, this journey also focuses on **soft skills and person
 | Junit                  | Used for writing unit tests to check and validate Java code. |
 | Hands-on Exercises     | practical programs and examples for learning.<br>Helps reinforce Java concepts through practice. |
 
-
-
-# Soft Skills 💡  
-
-- **Interpersonal Skills**: teamwork, empathy, and effective communication  
-- **SWOT Analysis**: identifying strengths, weaknesses, opportunities, and threats  
-- **PDCA Cycle**: plan, do, check, and act for continuous improvement  
-- **SMART Goals**: setting specific, measurable, achievable, relevant, and time-bound objectives  
-- **Eisenhower Matrix**: prioritizing tasks based on urgency and importance  
-- **Types of Communication**: verbal, non-verbal, written, and visual  
-- **TALKING Skills**: think before you speak, listen actively, use kind words, and stay attentive    
-- **7Cs of Communication**: clear, concise, concrete, correct, coherent, complete, courteous  
-- **CLOCK Mantra**: choose your goal, list activities, overcome obstacles, complete tasks, and keep improving  
-- **CV Preparation**: resume formatting, highlighting skills, and achievements  
-- **Resume Building**: creating ATS-friendly resumes with impactful content and design  
  
+# Soft Skills 💡
+
+| Topic                   | Description |
+|-------------------------|-------------|
+| Interpersonal Skills    | teamwork, empathy, and effective communication |
+| SWOT Analysis           | identifying strengths, weaknesses, opportunities, and threats |
+| PDCA Cycle              | plan, do, check, and act for continuous improvement |
+| SMART Goals             | setting specific, measurable, achievable, relevant, and time-bound objectives |
+| Eisenhower Matrix       | prioritizing tasks based on urgency and importance |
+| Types of Communication  | verbal, non-verbal, written, and visual |
+| TALKING Skills          | think before you speak, listen actively, use kind words, and stay attentive |
+| 7Cs of Communication    | clear, concise, concrete, correct, coherent, complete, courteous |
+| CLOCK Mantra            | choose your goal, list activities, overcome obstacles, complete tasks, and keep improving |
+| CV Preparation          | resume formatting, highlighting skills, and achievements |
+| Resume Building         | creating ATS-friendly resumes with impactful content and design |
 
 # Purpose 🎯
 
