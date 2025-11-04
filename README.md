@@ -17,6 +17,21 @@ Beyond technical learning, this journey also focuses on **soft skills and person
 
 # Topics Covered 📚
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Encapsulation-0078D4?style=for-the-badge&logo=java&logoColor=white" alt="Encapsulation" />
+  <img src="https://img.shields.io/badge/Abstraction-FF6F00?style=for-the-badge&logo=java&logoColor=white" alt="Abstraction" />
+  <img src="https://img.shields.io/badge/Inheritance-007396?style=for-the-badge&logo=java&logoColor=white" alt="Inheritance" />
+  <img src="https://img.shields.io/badge/Polymorphism-FF4500?style=for-the-badge&logo=java&logoColor=white" alt="Polymorphism" />
+  <img src="https://img.shields.io/badge/Interfaces-7952B3?style=for-the-badge&logo=java&logoColor=white" alt="Interfaces" />
+  <img src="https://img.shields.io/badge/Exception_Handling-DC143C?style=for-the-badge&logo=java&logoColor=white" alt="Exception Handling" />
+  <img src="https://img.shields.io/badge/Threading-008080?style=for-the-badge&logo=java&logoColor=white" alt="Threading" />
+  <img src="https://img.shields.io/badge/Collections_Framework-2E8B57?style=for-the-badge&logo=java&logoColor=white" alt="Collections Framework" />
+  <img src="https://img.shields.io/badge/Lambda_Expressions-FFA500?style=for-the-badge&logo=java&logoColor=white" alt="Lambda Expressions" />
+  <img src="https://img.shields.io/badge/Stream_API-20B2AA?style=for-the-badge&logo=java&logoColor=white" alt="Stream API" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+</p>
+
+
 | Topic                  | Description |
 |------------------------|-------------|
 | Encapsulation          | getters, setters, and data protection.<br>Controls access to class data and protects it from unauthorized modification. |
