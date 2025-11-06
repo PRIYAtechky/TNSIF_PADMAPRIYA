@@ -1,4 +1,4 @@
-# TNSIF_PADMAPRIYA 💻
+# TNSIF_PADMAPRIYA
 
 Let's learn, understand, and develop Java projects using the training provided by the **TNSIF program**, powered by **Capgemini**. This repository contains my Java programming practice and demonstration projects, created as part of the TNSIF training program. It includes well-organized examples covering core **Object-Oriented Programming (OOP)** concepts along with other fundamental Java topics.
 
@@ -15,7 +15,7 @@ Beyond technical learning, this journey also focuses on **soft skills and person
 - [How to Link Eclipse with GitHub Account](https://youtu.be/0G4iwZ3qw0s?si=sdSdIH9tmUSGHKwu)  
 - [How to Upload a Java Project from Eclipse to GitHub Repository](https://youtu.be/TysKmwGjxlQ?si=fhrL0WfOXvX68-pk)  
 
-# Topics Covered 📚
+# Topics Covered
 
 <p align="left">
   <img src="https://img.shields.io/badge/Encapsulation-0078D4?style=for-the-badge&logo=java&logoColor=white" alt="Encapsulation" />
@@ -48,7 +48,7 @@ Beyond technical learning, this journey also focuses on **soft skills and person
 | Hands-on Exercises     | practical programs and examples for learning.<br>Helps reinforce Java concepts through practice. |
 
  
-# Soft Skills 💡
+# Soft Skills
 
 | Topic                   | Description |
 |-------------------------|-------------|
